@@ -50,6 +50,7 @@
 <url> <loc>https://jimmysong.io/kubernetes-handbook/concepts/cronjob.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/concepts/horizontal-pod-autoscaling.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/concepts/custom-metrics-hpa.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/kubernetes-handbook/concepts/admission-controller.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/concepts/service-discovery.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/concepts/service.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/concepts/ingress.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
