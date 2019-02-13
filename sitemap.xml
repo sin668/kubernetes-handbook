@@ -250,6 +250,8 @@
 <url> <loc>https://jimmysong.io/kubernetes-handbook/appendix/summary-and-outlook.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/appendix/kubernetes-and-cloud-native-summary-in-2017-and-outlook-for-2018.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/appendix/kubernetes-and-cloud-native-summary-in-2018-and-outlook-for-2019.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/kubernetes-handbook/appendix/cncf-annual-report.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/kubernetes-handbook/appendix/cncf-annual-report-2018.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/appendix/about-kcsp.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/appendix/about-cka-candidate.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 </urlset>
